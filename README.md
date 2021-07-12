@@ -1,14 +1,14 @@
 # Hi, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 # I am Abishek SA :sparkles:
 
-Working as an Automation/DevOps Engineer. Enthusiastic in Automation, Machine Learning, Deep Learning, Computer Vision, Natural Language Processing and Chatbots.
+🏁 Working as an Automation/DevOps Engineer. Enthusiastic in Automation, Machine Learning, Deep Learning, Computer Vision, Natural Language Processing and Chatbots.
 
 <img align="right" img src="https://media.giphy.com/media/IpeYSEZshTefe/giphy.gif" width="210px">
 
 🔭 I’m currently working on my side Hustle and making Valuable Connections.
 
 💬 Connect with me on below social media links 
-:yt: ASA Learning YouTube Channel
+<a href="https://www.youtube.com/channel/UCY94xPO3da1xtmKgWQriuPw?sub_confirmation=1"><b> 📺 ASA Learning YouTube Channel</b></a>
 
   <summary><b>🥇 Open Source Projects</b></summary>
 
@@ -55,7 +55,6 @@ Working as an Automation/DevOps Engineer. Enthusiastic in Automation, Machine Le
 <div align="center">
 <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=AbishekSA&show_icons=true&count_private=true&theme=radical" width="350" height="250" ></a>
 <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbishekSA&layout=compact&theme=radical" width="350" height="250" ></a>
-
 </div>
 
 Abishek SA Streak      |  Jokes Card
