@@ -53,8 +53,8 @@ Working as an Automation/DevOps Engineer. Enthusiastic in Automation, Machine Le
   </table>
 
 <div align="center">
-<a href="#"><img src="https://github-readme-stats.vercel.app/api?username=Rishabhltfb&show_icons=true&count_private=true&theme=radical" width="350" height="250" ></a>
-<a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishabhltfb&layout=compact&theme=radical" width="350" height="250" ></a>
+<a href="#"><img src="https://github-readme-stats.vercel.app/api?username=AbishekSA&show_icons=true&count_private=true&theme=radical" width="350" height="250" ></a>
+<a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbishekSA&layout=compact&theme=radical" width="350" height="250" ></a>
 
 </div>
 
@@ -68,8 +68,6 @@ Abishek SA Streak      |  Jokes Card
 
 <img align="center" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="center" alt="Python" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/240px-Python.svg.png" />
-<img align="center" alt="JavaScript" width="100px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQUhdFgKwWT0BD32WAPhBz04H7yjV1VMu7axw&usqp=CAU" />
-<!-- <img align="center" alt="GitHub" width="30px" src="https://numpy.org/images/logos/numpy.svg" /> -->
 <img align="center" alt="Git" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="center" alt="GitHub" width="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 </br>
