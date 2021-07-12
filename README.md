@@ -9,6 +9,12 @@
 
 💬 Connect with me on below social media links 
 <a href="https://www.youtube.com/channel/UCY94xPO3da1xtmKgWQriuPw?sub_confirmation=1"><b> 📺 ASA Learning YouTube Channel</b></a>
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/abisheksa/) [<img src="https://img.shields.io/badge/PORTFOLIO-%23292929.svg?&style=for-the-badge&logo=PORTFOLIO&logoColor=white" />](https://AbishekSA.github.io/) 
+[<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />](https://www.youtube.com/channel/UCY94xPO3da1xtmKgWQriuPw?sub_confirmation=1) 
+[<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/asalearningonyoutube/) 
+[<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/asa.learning/) 
+[<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/AbishekSA/) 
+[<img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" />](https://hashnode.com/@ASAlearning/) 
 
   <summary><b>My Projects</b></summary>
 
