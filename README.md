@@ -7,7 +7,8 @@ Working as an Automation/DevOps Engineer. Enthusiastic in Automation, Machine Le
 
 🔭 I’m currently working on my side Hustle and making Valuable Connections.
 
-💬 Ask me about my experiences with various Communities of my College, Freelancing hurdles, my development journey or my interest in Startups.
+💬 Connect with me on below social media links 
+:yt: ASA Learning YouTube Channel
 
   <summary><b>🥇 Open Source Projects</b></summary>
 
@@ -25,28 +26,28 @@ Working as an Automation/DevOps Engineer. Enthusiastic in Automation, Machine Le
     </thead>
     <tbody>
       <tr>
-	      <td><a href="https://github.com/open-roboclub/roboclub-flutter"><b>🚀 RoboClub App (Flutter)</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/open-roboclub/roboclub-flutter?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/open-roboclub/roboclub-flutter?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/open-roboclub/roboclub-flutter?style=flat-square"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/open-roboclub/roboclub-flutter?style=flat-square"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/open-roboclub/roboclub-flutter?style=flat-square"/></td>
+	      <td><a href="https://github.com/AbishekSA/Explained_In_Minutes"><b>🚀 Explained In Minutes Playlist Series</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/AbishekSA/Explained_In_Minutes?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/AbishekSA/Explained_In_Minutes?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/AbishekSA/Explained_In_Minutes?style=flat-square"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/AbishekSA/Explained_In_Minutes?style=flat-square"/></td>
+        <td><img alt="Language" src="https://img.shields.io/github/languages/top/AbishekSA/Explained_In_Minutes?style=flat-square"/></td>
       </tr>
       <tr>
-	      <td><a href="https://github.com/Rishabhltfb/Hospitality-MobileClient"><b>💻Hospitality App </b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/Rishabhltfb/Hospitality-MobileClient?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/Rishabhltfb/Hospitality-MobileClient?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/Rishabhltfb/Hospitality-MobileClient?style=flat-square"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Rishabhltfb/Hospitality-MobileClient?style=flat-square"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/Rishabhltfb/Hospitality-MobileClient?label=Python&style=flat-square"/></td>
+	      <td><a href="https://github.com/AbishekSA/Nifty50_Prediction_LinearRegression"><b>💻 Nifty50 ML Prediction model </b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/AbishekSA/Nifty50_Prediction_LinearRegression?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/AbishekSA/Nifty50_Prediction_LinearRegression?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/AbishekSA/Nifty50_Prediction_LinearRegression?style=flat-square"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/AbishekSA/Nifty50_Prediction_LinearRegression?style=flat-square"/></td>
+        <td><img alt="Language" src="https://img.shields.io/github/languages/top/AbishekSA/Nifty50_Prediction_LinearRegression?label=Python&style=flat-square"/></td>
       </tr>
       <tr>
-	      <td><a href="https://github.com/Rishabhltfb/Mr.medic"><b>👨 Mr. Medic</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/Rishabhltfb/Mr.medic?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/Rishabhltfb/Mr.medic?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/Rishabhltfb/Mr.medic?style=flat-square"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Rishabhltfb/Mr.medic?style=flat-square"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/Rishabhltfb/Mr.medic?style=flat-square"/></td> 
+	      <td><a href="https://github.com/AbishekSA/ASA"><b>👨 ASA </b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/AbishekSA/ASA?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/AbishekSA/ASA?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/AbishekSA/ASA?style=flat-square"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/AbishekSA/ASA?style=flat-square"/></td>
+        <td><img alt="Language" src="https://img.shields.io/github/languages/top/AbishekSA/ASA?style=flat-square"/></td> 
       </tr>
     </tbody>
   </table>
@@ -57,9 +58,9 @@ Working as an Automation/DevOps Engineer. Enthusiastic in Automation, Machine Le
 
 </div>
 
-Rishabh Github Streak      |  Jokes Card
+Abishek SA Streak      |  Jokes Card
 :-------------------------:|:-------------------------:
-![Rishabh GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AbishekSA) | ![Jokes Card](https://readme-jokes.vercel.app/api)
+![Abishek SA Streak](https://github-readme-streak-stats.herokuapp.com/?user=AbishekSA) | ![Jokes Card](https://readme-jokes.vercel.app/api)
 	
 <div align="center">
   
@@ -83,14 +84,11 @@ Rishabh Github Streak      |  Jokes Card
   
   <img align="center" a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a>
 
- ### ⚡ Some facts about me: ✨ I love coding+talking about startups/tech+making friends✨ 
- 
-
 <h3>Connect with me!</h3>
  
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/rishabh-sharma-11242b174/) [<img src="https://img.shields.io/badge/PORTFOLIO-%23292929.svg?&style=for-the-badge&logo=PORTFOLIO&logoColor=white" />](https://rishabhltfb.github.io/) 
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/abisheksa/) [<img src="https://img.shields.io/badge/PORTFOLIO-%23292929.svg?&style=for-the-badge&logo=PORTFOLIO&logoColor=white" />](https://AbishekSA.github.io/) 
 
-![](https://visitor-badge.glitch.me/badge?page_id=Rishabhltfb.Rishabhltfb)
+![](https://visitor-badge.glitch.me/badge?page_id=AbishekSA.AbishekSA)
 
 
 
