@@ -10,7 +10,7 @@
 💬 Connect with me on below social media links 
 <a href="https://www.youtube.com/channel/UCY94xPO3da1xtmKgWQriuPw?sub_confirmation=1"><b> 📺 ASA Learning YouTube Channel</b></a>
 
-  <summary><b>🥇 Open Source Projects</b></summary>
+  <summary><b>My Projects</b></summary>
 
   <br />
   <table>
