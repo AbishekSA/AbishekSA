@@ -75,9 +75,9 @@ Abishek SA Streak      |  Jokes Card
 <img align="center" alt="jenkins" width="50px" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" />
 <img align="center" alt="UFT One" width="50px" src="https://www.calleosoftware.co.uk/upload/images/logos/UFT%20logo.png" />
 <img align="center" alt="Selenium" width="50px" src="https://seeklogo.com/images/S/selenium-logo-DB9103D7CF-seeklogo.com.png" />
-<img align="center" alt="Git" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="center" alt="GitHub" width="50px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="center" alt="git-scm" width="50px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />
+<img align="center" alt="Gitlab" width="50px" src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" />
+<img align="center" alt="GitHub" width="40px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="center" alt="git-scm" width="40px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />
 <img align="center" alt="linux" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />
 <img align="center" alt="oracle" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" /> <br>
 <img align="center" alt="scikit-learn" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" />
