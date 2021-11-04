@@ -82,9 +82,7 @@ Abishek SA Streak      |  Jokes Card
 <img align="center" alt="linux" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />
 <img align="center" alt="oracle" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" /> 
 <img align="center" alt="Toad" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Toad-Original_RGB.png" /> 
-<img align="center" alt="cucumberBDD" width="40px" src="https://www.vectorlogo.zone/logos/cucumberio/cucumberio-icon.svg" /> 	
-	
-	<br>
+<img align="center" alt="cucumberBDD" width="40px" src="https://www.vectorlogo.zone/logos/cucumberio/cucumberio-icon.svg" /> <br>
 <img align="center" alt="scikit-learn" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" />
 <img align="center" alt="pyspark" width="50px" src="https://miro.medium.com/max/400/1*VNdaFCkls0gyJR0ddP1PCQ.png" /> 
 <img align="center" alt="powerBI" width="50px" src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" /> 
