@@ -2,11 +2,10 @@
 ## I am Abishek SA :sparkles:
 
 🏁 Working as an Automation/DevOps and Machine learning Engineer. Enthusiastic in Automation, Machine Learning, Deep Learning, Computer Vision, Natural Language Processing and Chatbots
-![](https://visitor-badge.glitch.me/badge?page_id=AbishekSA.AbishekSA)
 
 <img align="right" img src="https://media.giphy.com/media/IpeYSEZshTefe/giphy.gif" width="210px">
 
-🔭 I’m currently working on my side Hustle and making Valuable Connections.
+🔭![](https://visitor-badge.glitch.me/badge?page_id=AbishekSA.AbishekSA)
 
 💬<b> Connect with me on below social media links:</b> <a href="https://www.youtube.com/channel/UCY94xPO3da1xtmKgWQriuPw?sub_confirmation=1"><b> 📺 ASA Learning YouTube Channel</b></a><br>
 
@@ -72,17 +71,23 @@ Abishek SA Streak      |  Jokes Card
   
 <h3>Languages, Tools and Framework:</h3>
 
-<img align="center" alt="Visual Studio Code" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="center" alt="Python" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/240px-Python.svg.png" />
+<img align="center" alt="jenkins" width="50px" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" />
+<img align="center" alt="UFT One" width="50px" src="https://www.calleosoftware.co.uk/upload/images/logos/UFT%20logo.png" />
+<img align="center" alt="Selenium" width="50px" src="https://seeklogo.com/images/S/selenium-logo-DB9103D7CF-seeklogo.com.png" />
 <img align="center" alt="Git" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="center" alt="GitHub" width="50px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="center" alt="git-scm" width="50px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />
+<img align="center" alt="linux" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />
+<img align="center" alt="oracle" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" />
+<img align="center" alt="scikit-learn" width="50px" src="hhttps://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" />
 <img align="center" alt="flask" width="50px" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" />
-<img align="center" alt="flask" width="50px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />
-<img align="center" alt="flask" width="50px" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" />
-<img align="center" alt="flask" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />
-<img align="center" alt="flask" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" />
-<img align="center" alt="flask" width="50px" src="hhttps://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" />
-<img align="center" alt="flask" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />
+<img align="center" alt="Databricks" width="50px" src="https://www.vectorlogo.zone/logos/databricks/databricks-ar21.svg" />
+<img align="center" alt="Visual Studio Code" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="center" alt="PyCharm" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/2048px-PyCharm_Icon.svg.png" />
+<img align="center" alt="Jupyter" width="50px" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" />
+<img align="center" alt="AWS" width="50px" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" />
+<img align="center" alt="Azure" width="50px" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" />
 
 </br>
 
