@@ -2,6 +2,7 @@
 ## I am Abishek SA :sparkles:
 
 🏁 Working as an Automation/DevOps and Machine learning Engineer. Enthusiastic in Automation, Machine Learning, Deep Learning, Computer Vision, Natural Language Processing and Chatbots
+![](https://visitor-badge.glitch.me/badge?page_id=AbishekSA.AbishekSA)
 
 <img align="right" img src="https://media.giphy.com/media/IpeYSEZshTefe/giphy.gif" width="210px">
 
@@ -69,13 +70,19 @@ Abishek SA Streak      |  Jokes Card
 	
 <div align="center">
   
-<h3>Languages and Framework:</h3>
+<h3>Languages, Tools and Framework:</h3>
 
 <img align="center" alt="Visual Studio Code" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="center" alt="Python" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/240px-Python.svg.png" />
 <img align="center" alt="Git" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="center" alt="GitHub" width="50px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="center" alt="flask" width="50px" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" />
+<img align="center" alt="flask" width="50px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />
+<img align="center" alt="flask" width="50px" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" />
+<img align="center" alt="flask" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />
+<img align="center" alt="flask" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" />
+<img align="center" alt="flask" width="50px" src="hhttps://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" />
+<img align="center" alt="flask" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />
 
 </br>
 
