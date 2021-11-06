@@ -48,12 +48,28 @@
         <td><img alt="Language" src="https://img.shields.io/github/languages/top/AbishekSA/Nifty50_Prediction_LinearRegression?label=Python&style=flat-square"/></td>
       </tr>
       <tr>
-	      <td><a href="https://github.com/AbishekSA/ASA"><b>👨 ASA </b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/AbishekSA/ASA?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/AbishekSA/ASA?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/AbishekSA/ASA?style=flat-square"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/AbishekSA/ASA?style=flat-square"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/AbishekSA/ASA?style=flat-square"/></td> 
+	      <td><a href="https://github.com/AbishekSA/machine_learning_examples"><b>👨 ASA </b></a></td>
+        <td><img alt="Stars" src="https://github.com/AbishekSA/machine_learning_examples?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://github.com/AbishekSA/machine_learning_examples?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://github.com/AbishekSA/machine_learning_examples?style=flat-square"/></td>
+        <td><img alt="Pull Requests" src="https://github.com/AbishekSA/machine_learning_examples?style=flat-square"/></td>
+        <td><img alt="Language" src="https://img.shields.io/github/languages/top/AbishekSA/machine_learning_examples?style=flat-square"/></td> 
+      </tr>
+     <tr>
+	<td><a href="https://github.com/AbishekSA/pyspark_projects"><b>👨 ASA </b></a></td>
+        <td><img alt="Stars" src="https://github.com/AbishekSA/pyspark_projects?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://github.com/AbishekSA/pyspark_projects?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://github.com/AbishekSA/pyspark_projects?style=flat-square"/></td>
+        <td><img alt="Pull Requests" src="https://github.com/AbishekSA/pyspark_projects?style=flat-square"/></td>
+        <td><img alt="Language" src="https://img.shields.io/github/languages/top/AbishekSA/pyspark_projects?style=flat-square"/></td> 
+      </tr>
+      <tr>
+	<td><a href="https://github.com/AbishekSA/Automated-Machine-Learning"><b>👨 ASA </b></a></td>
+        <td><img alt="Stars" src="https://github.com/AbishekSA/Automated-Machine-Learning?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://github.com/AbishekSA/Automated-Machine-Learning?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://github.com/AbishekSA/Automated-Machine-Learning?style=flat-square"/></td>
+        <td><img alt="Pull Requests" src="https://github.com/AbishekSA/Automated-Machine-Learning?style=flat-square"/></td>
+        <td><img alt="Language" src="https://img.shields.io/github/languages/top/AbishekSA/Automated-Machine-Learning?style=flat-square"/></td> 
       </tr>
     </tbody>
   </table>
