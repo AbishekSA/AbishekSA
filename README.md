@@ -135,5 +135,6 @@ Abishek SA Streak      |  Jokes Card
 ![](https://visitor-badge.glitch.me/badge?page_id=AbishekSA.AbishekSA)
 
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abisheksa&no-frame=true&theme=juicyfresh&title=Stars,Commit,Followers,Repositories"/></a>
-
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="abisheksa" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/abisheksa?trk=profile-badge">Abishek SA</a></div>
+              
 </div>
