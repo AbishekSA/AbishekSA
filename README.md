@@ -64,12 +64,12 @@
         <td><img alt="Language" src="https://img.shields.io/github/languages/top/AbishekSA/pyspark_projects?style=flat-square"/></td> 
       </tr>
       <tr>
-	<td><a href="https://github.com/piyushpathak03/Automated-Machine-Learning"><b>🎱 Automated ML </b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/piyushpathak03/Automated-Machine-Learning?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/piyushpathak03/Automated-Machine-Learning?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/piyushpathak03/Automated-Machine-Learning?style=flat-square"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/piyushpathak03/Automated-Machine-Learning?style=flat-square"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/piyushpathak03/Automated-Machine-Learning?style=flat-square"/></td> 
+	<td><a href="https://github.com/AbishekSA/Automated-Machine-Learning"><b>🎱 Automated ML </b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/AbishekSA/Automated-Machine-Learning?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/AbishekSA/Automated-Machine-Learning?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/AbishekSA/Automated-Machine-Learning?style=flat-square"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/AbishekSA/Automated-Machine-Learning?style=flat-square"/></td>
+        <td><img alt="Language" src="https://img.shields.io/github/languages/top/AbishekSA/Automated-Machine-Learning?style=flat-square"/></td> 
       </tr>
     </tbody>
   </table>
