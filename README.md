@@ -79,7 +79,7 @@
 <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbishekSA&layout=compact&theme=radical" width="350" height="250" ></a>
 </div>
 
-Abishek SA Streak      |  Jokes Card
+Abishek SA Streak      |  Jokes Card 
 :-------------------------:|:-------------------------:
 ![Abishek SA Streak](https://github-readme-streak-stats.herokuapp.com/?user=AbishekSA) | ![Jokes Card](https://readme-jokes.vercel.app/api)
 	
