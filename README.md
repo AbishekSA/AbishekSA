@@ -1,7 +1,7 @@
 ## Hi, Good Day <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 ## I am Abishek SA :sparkles:
 
-🏁 Working in Machine learning, MLOps, Automation and DevOps. Enthusiastic in Machine Learning, Deep Learning, Computer Vision, Natural Language Processing and Chatbots
+🏁 Working in Machine learning, MLOps, Automation and DevOps. Enthusiastic in Machine Learning, Deep Learning, Computer Vision, Natural Language Processing and Chatbots.
 
 <img align="right" img src="https://media.giphy.com/media/IpeYSEZshTefe/giphy.gif" width="210px">
 
